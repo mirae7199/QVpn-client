@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/솔루션 항목/">
+    <File Path=".gitignore" />
+    <File Path="QVpn/ui/log.ui" />
+    <File Path="QVpn/x64/Debug/qt/uic/ui_log.h" />
+  </Folder>
+  <Project Path="QVpn/QVpn.vcxproj" Id="39a9637e-acc1-449d-88df-c2224d571d24" />
+</Solution>
