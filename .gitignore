@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# ReSharper
+_ReSharper.Caches/
+*.DotSettings.user
+
+*.ovpn
